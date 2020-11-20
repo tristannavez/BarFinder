@@ -1,0 +1,847 @@
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Client.StaticWebAssets.xml
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Client.blazor.config
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\appsettings.json
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.StaticWebAssets.xml
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.exe
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.deps.json
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.runtimeconfig.json
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.runtimeconfig.dev.json
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.pdb
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Blazored.LocalStorage.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\GoogleMapsComponents.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Blazor.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Blazor.Server.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.JSInterop.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.Cecil.Mdb.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.Cecil.Pdb.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.Cecil.Rocks.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.Cecil.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.WebAssembly.Interop.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\OneOf.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Client.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Shared.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Client.pdb
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Shared.pdb
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.csprojAssemblyReference.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.AssemblyInfoInputs.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.AssemblyInfo.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.csproj.CoreCompileInputs.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.RazorTargetAssemblyInfo.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.csproj.CopyComplete
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\obj\Release\netcoreapp3.1\staticwebassets\POIN.Server.StaticWebAssets.Manifest.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\obj\Release\netcoreapp3.1\staticwebassets\POIN.Server.StaticWebAssets.xml
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.pdb
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.genruntimeconfig.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Client.StaticWebAssets.xml
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Client.blazor.config
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.StaticWebAssets.xml
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.exe
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.deps.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.runtimeconfig.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.runtimeconfig.dev.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Blazored.LocalStorage.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\GoogleMapsComponents.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\EntityFramework.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Blazor.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Blazor.Server.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.Cecil.Mdb.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.Cecil.Pdb.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.Cecil.Rocks.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.Cecil.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.WebAssembly.Interop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\OneOf.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\System.Data.Entity.Repository.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Shared.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Client.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Shared.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.csprojAssemblyReference.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.AssemblyInfoInputs.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.AssemblyInfo.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.csproj.CoreCompileInputs.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.RazorTargetAssemblyInfo.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.csproj.CopyComplete
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\obj\Release\netcoreapp3.1\staticwebassets\POIN.Server.StaticWebAssets.Manifest.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\obj\Release\netcoreapp3.1\staticwebassets\POIN.Server.StaticWebAssets.xml
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.genruntimeconfig.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Client.StaticWebAssets.xml
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Client.blazor.config
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\appsettings.json
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.StaticWebAssets.xml
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.exe
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.deps.json
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.runtimeconfig.json
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.runtimeconfig.dev.json
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.pdb
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Blazored.LocalStorage.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\GoogleMapsComponents.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\EntityFramework.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Blazor.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Blazor.Server.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.JSInterop.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.Cecil.Mdb.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.Cecil.Pdb.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.Cecil.Rocks.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.Cecil.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.WebAssembly.Interop.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\OneOf.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\System.Data.Entity.Repository.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Client.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Shared.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Client.pdb
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Shared.pdb
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.csprojAssemblyReference.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.AssemblyInfoInputs.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.AssemblyInfo.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.csproj.CoreCompileInputs.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.RazorTargetAssemblyInfo.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.csproj.CopyComplete
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\obj\Release\netcoreapp3.1\staticwebassets\POIN.Server.StaticWebAssets.Manifest.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\obj\Release\netcoreapp3.1\staticwebassets\POIN.Server.StaticWebAssets.xml
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.pdb
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.genruntimeconfig.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Client.StaticWebAssets.xml
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Client.blazor.config
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.StaticWebAssets.xml
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.exe
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.deps.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.runtimeconfig.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.runtimeconfig.dev.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Blazored.LocalStorage.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\GoogleMapsComponents.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\EntityFramework.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Blazor.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Blazor.Server.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.Cecil.Mdb.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.Cecil.Pdb.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.Cecil.Rocks.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.Cecil.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.WebAssembly.Interop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\OneOf.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\System.Data.Entity.Repository.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Shared.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Client.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Shared.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.csprojAssemblyReference.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.AssemblyInfoInputs.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.AssemblyInfo.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.csproj.CoreCompileInputs.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.RazorTargetAssemblyInfo.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.csproj.CopyComplete
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\obj\Release\netcoreapp3.1\staticwebassets\POIN.Server.StaticWebAssets.Manifest.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\obj\Release\netcoreapp3.1\staticwebassets\POIN.Server.StaticWebAssets.xml
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.genruntimeconfig.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Client.StaticWebAssets.xml
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Client.blazor.config
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.StaticWebAssets.xml
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.exe
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.deps.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.runtimeconfig.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.runtimeconfig.dev.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Server.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Blazored.LocalStorage.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\GoogleMapsComponents.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\EntityFramework.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Blazor.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Blazor.Server.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.Cecil.Mdb.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.Cecil.Pdb.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.Cecil.Rocks.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.Cecil.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Mono.WebAssembly.Interop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\OneOf.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\System.Data.Entity.Repository.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Shared.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Client.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\bin\Release\netcoreapp3.1\POIN.Shared.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.csprojAssemblyReference.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.AssemblyInfoInputs.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.AssemblyInfo.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.csproj.CoreCompileInputs.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.RazorTargetAssemblyInfo.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.csproj.CopyComplete
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\obj\Release\netcoreapp3.1\staticwebassets\POIN.Server.StaticWebAssets.Manifest.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\obj\Release\netcoreapp3.1\staticwebassets\POIN.Server.StaticWebAssets.xml
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Server\obj\Release\netcoreapp3.1\POIN.Server.genruntimeconfig.cache

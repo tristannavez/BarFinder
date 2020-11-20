@@ -1,0 +1,579 @@
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Properties\launchSettings.json
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\POIN.Client.StaticWebAssets.xml
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\POIN.Client.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\POIN.Client.pdb
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\service-worker-assets.js
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\POIN.Client.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.Http.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\GoogleMapsComponents.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Newtonsoft.Json.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\OneOf.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\POIN.Shared.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\POIN.Client.pdb
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\POIN.Shared.pdb
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0-preview3.20168.1.js
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\POIN.Client.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.Http.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\GoogleMapsComponents.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Newtonsoft.Json.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\OneOf.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\POIN.Shared.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\POIN.Client.pdb.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\POIN.Shared.pdb.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0-preview3.20168.1.js.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\GoogleMapsComponents.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\OneOf.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.AppContext.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Buffers.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Collections.Concurrent.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Diagnostics.DiagnosticSource.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.IO.Compression.ZipFile.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.IO.FileSystem.Primitives.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Linq.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Linq.Expressions.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Memory.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.ObjectModel.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.ILGeneration.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.Lightweight.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Reflection.TypeExtensions.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Runtime.Numerics.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.OpenSsl.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.Primitives.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Text.Json.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Text.RegularExpressions.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Threading.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Xml.ReaderWriter.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\System.Xml.XDocument.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\POIN.Shared.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\bin\Debug\netstandard2.1\POIN.Shared.pdb
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\POIN.Client.csprojAssemblyReference.cache
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\POIN.Client.AssemblyInfoInputs.cache
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\POIN.Client.AssemblyInfo.cs
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\POIN.Client.csproj.CoreCompileInputs.cache
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\POIN.Client.RazorComponent.input.cache
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Map.razor.g.cs
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\RazorDeclaration\POIN.Client.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\POIN.Client.TagHelpers.input.cache
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\POIN.Client.TagHelpers.output.cache
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\POIN.Client.RazorCoreGenerate.cache
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\Razor\Pages\Counter.razor.g.cs
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\Razor\Pages\FetchData.razor.g.cs
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\Razor\Pages\Map.razor.g.cs
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\POIN.Client.RazorTargetAssemblyInfo.cache
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\POIN.Client.csproj.CopyComplete
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\POIN.Client.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.Http.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\GoogleMapsComponents.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Newtonsoft.Json.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\OneOf.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\POIN.Shared.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\POIN.Client.pdb.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\POIN.Shared.pdb.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0-preview3.20168.1.js.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.gz
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\POIN.Client.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.Http.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\GoogleMapsComponents.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Newtonsoft.Json.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\OneOf.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\POIN.Shared.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\POIN.Client.pdb.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\POIN.Shared.pdb.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0-preview3.20168.1.js.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.gz.hash
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\staticwebassets\POIN.Client.StaticWebAssets.Manifest.cache
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\staticwebassets\POIN.Client.StaticWebAssets.xml
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\POIN.Client.dll
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\POIN.Client.pdb
+D:\EPSI B3\POIN\POIN2\POIN\Client\obj\Debug\netstandard2.1\blazor\serviceworkerassets.js
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\Properties\launchSettings.json
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\POIN.Client.StaticWebAssets.xml
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\POIN.Client.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\POIN.Client.pdb
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\GoogleMapsComponents.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\OneOf.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.AppContext.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Buffers.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Collections.Concurrent.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Diagnostics.DiagnosticSource.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.IO.Compression.ZipFile.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.IO.FileSystem.Primitives.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Linq.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Linq.Expressions.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Memory.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.ObjectModel.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.ILGeneration.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.Lightweight.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Reflection.TypeExtensions.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Runtime.Numerics.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.OpenSsl.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.Primitives.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Text.Json.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Text.RegularExpressions.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Threading.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Xml.ReaderWriter.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\System.Xml.XDocument.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\POIN.Shared.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\POIN.Shared.pdb
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\POIN.Client.csprojAssemblyReference.cache
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\POIN.Client.csproj.CoreCompileInputs.cache
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\POIN.Client.RazorComponent.input.cache
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Map.razor.g.cs
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\RazorDeclaration\POIN.Client.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\POIN.Client.TagHelpers.input.cache
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\POIN.Client.TagHelpers.output.cache
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\POIN.Client.RazorCoreGenerate.cache
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\Razor\Pages\Counter.razor.g.cs
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\Razor\Pages\FetchData.razor.g.cs
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\Razor\Pages\Map.razor.g.cs
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\POIN.Client.AssemblyInfoInputs.cache
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\POIN.Client.AssemblyInfo.cs
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\POIN.Client.RazorTargetAssemblyInfo.cache
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\POIN.Client.csproj.CopyComplete
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\staticwebassets\POIN.Client.StaticWebAssets.Manifest.cache
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\staticwebassets\POIN.Client.StaticWebAssets.xml
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\POIN.Client.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\POIN.Client.pdb
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Register.razor.g.cs
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\Blazored.LocalStorage.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Authorization.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\Razor\Pages\Register.razor.g.cs
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Blazor.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\Mono.WebAssembly.Interop.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\POIN.Client.blazor.config
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Blazored.LocalStorage.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\GoogleMapsComponents.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Authorization.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Components.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Metadata.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.Options.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.Primitives.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.JSInterop.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Mono.Security.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Mono.WebAssembly.Interop.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\mscorlib.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\Newtonsoft.Json.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\OneOf.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\POIN.Client.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\POIN.Shared.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.AppContext.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Buffers.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Collections.Concurrent.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.ComponentModel.Annotations.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Core.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Data.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Diagnostics.DiagnosticSource.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.IO.Compression.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.IO.Compression.ZipFile.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.IO.FileSystem.Primitives.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Linq.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Linq.Expressions.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Memory.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Net.Http.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Numerics.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Numerics.Vectors.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.ObjectModel.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Reflection.Emit.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Reflection.Emit.ILGeneration.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Reflection.Emit.Lightweight.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Reflection.TypeExtensions.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Runtime.Numerics.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Runtime.Serialization.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Security.Cryptography.OpenSsl.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Security.Cryptography.Primitives.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Text.Encodings.Web.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Text.Json.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Text.RegularExpressions.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Threading.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Threading.Tasks.Extensions.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Xml.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Xml.Linq.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Xml.ReaderWriter.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Xml.XDocument.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\WebAssembly.Bindings.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\WebAssembly.Net.Http.dll
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\wasm\mono.js
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\wasm\mono.wasm
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\blazor.server.js
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\blazor.webassembly.js
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\POIN.Client.pdb
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\_bin\POIN.Shared.pdb
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_framework\blazor.boot.json
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_content\GoogleMapsComponents\background.png
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_content\GoogleMapsComponents\objectManager.js
+C:\coursProjet\projetPoin\projet-poin\Client\bin\Debug\netstandard2.1\dist\_content\GoogleMapsComponents\styles.css
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\inputs.linkerswitch.cache
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\inputs.basic.cache
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\inputs.copylocal.txt
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker.descriptor.xml
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\inputs.linker.cache
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linked.assemblies.txt
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\Blazored.LocalStorage.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\GoogleMapsComponents.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\Microsoft.AspNetCore.Authorization.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\Microsoft.AspNetCore.Blazor.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\Microsoft.AspNetCore.Components.Authorization.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\Microsoft.AspNetCore.Components.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\Microsoft.AspNetCore.Components.Forms.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\Microsoft.AspNetCore.Components.Web.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\Microsoft.AspNetCore.Metadata.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\Microsoft.Bcl.AsyncInterfaces.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\Microsoft.Extensions.DependencyInjection.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\Microsoft.Extensions.Logging.Abstractions.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\Microsoft.Extensions.Options.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\Microsoft.Extensions.Primitives.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\Microsoft.JSInterop.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\Mono.Security.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\Mono.WebAssembly.Interop.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\mscorlib.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\Newtonsoft.Json.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\OneOf.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\POIN.Client.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\POIN.Shared.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.AppContext.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Buffers.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Collections.Concurrent.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.ComponentModel.Annotations.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Core.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Data.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Diagnostics.DiagnosticSource.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.IO.Compression.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.IO.Compression.ZipFile.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.IO.FileSystem.Primitives.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Linq.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Linq.Expressions.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Memory.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Net.Http.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Numerics.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Numerics.Vectors.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.ObjectModel.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Reflection.Emit.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Reflection.Emit.ILGeneration.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Reflection.Emit.Lightweight.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Reflection.TypeExtensions.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Runtime.CompilerServices.Unsafe.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Runtime.Numerics.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Runtime.Serialization.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Security.Cryptography.OpenSsl.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Security.Cryptography.Primitives.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Text.Encodings.Web.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Text.Json.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Text.RegularExpressions.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Threading.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Threading.Tasks.Extensions.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Xml.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Xml.Linq.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Xml.ReaderWriter.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\System.Xml.XDocument.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\WebAssembly.Bindings.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\WebAssembly.Net.Http.dll
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\POIN.Client.pdb
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\linker\POIN.Shared.pdb
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\inputs.bootjson.cache
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\_content\GoogleMapsComponents\background.png
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\_content\GoogleMapsComponents\objectManager.js
+C:\coursProjet\projetPoin\projet-poin\Client\obj\Debug\netstandard2.1\blazor\_content\GoogleMapsComponents\styles.css

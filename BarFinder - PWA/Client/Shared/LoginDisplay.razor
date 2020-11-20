@@ -1,0 +1,24 @@
+
+<AuthorizeView>
+    <Authorized>
+        <div class="bot-nav">
+            <NavLink class="nav-link" href="/account" Match="NavLinkMatch.All">
+                <span class="oi oi-person" aria-hidden="true"></span> Bonjour, @context.User.Identity.Name.Substring(0, @context.User.Identity.Name.IndexOf("@"))
+            </NavLink>
+            <NavLink class="nav-link" href="/camera" Match="NavLinkMatch.All">
+                <span class="oi oi-camera-slr" aria-hidden="true"></span> Caméra
+            </NavLink>
+            <NavLink class="nav-link" href="/logout" Match="NavLinkMatch.All">
+                <span class="oi oi-account-logout" aria-hidden="true"></span> Déconnexion
+            </NavLink>
+        </div>
+    </Authorized>
+    <NotAuthorized>
+        <NavLink class="nav-link" href="/register" Match="NavLinkMatch.All">
+            <span class="oi oi-person" aria-hidden="true"></span> S'inscrire
+        </NavLink>
+        <NavLink class="nav-link" href="/login" Match="NavLinkMatch.All">
+            <span class="oi oi-account-login" aria-hidden="true"></span> Connexion
+        </NavLink>
+    </NotAuthorized>
+</AuthorizeView>

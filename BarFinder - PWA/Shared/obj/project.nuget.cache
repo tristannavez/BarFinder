@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9yL9v/mwiA1vchRuZ9WQ0+KlCLAtQ1SD4XMehCuabWV4kTW6D0HSktpoi1Cm1qzrvizH8LhAWRpbk1vS1wY8jA==",
+  "success": true,
+  "projectFilePath": "C:\\coursProjet\\projetPoin\\projet-poin\\Shared\\POIN.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\monteilf\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\monteilf\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

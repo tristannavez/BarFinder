@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/Identity" Path="C:\Users\monteilf\.nuget\packages\microsoft.aspnetcore.identity.ui\3.1.0-preview3.19555.2\staticwebassets\V4\" />
+  <ContentRoot BasePath="_content/BlazorGoogleMaps" Path="C:\Users\monteilf\.nuget\packages\blazorgooglemaps\0.6.1\build\..\staticwebassets\" />
+</StaticWebAssets>

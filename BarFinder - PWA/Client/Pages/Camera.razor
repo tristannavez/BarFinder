@@ -1,0 +1,49 @@
+﻿@using Microsoft.AspNetCore.Blazor.Services
+@using Services
+@using Microsoft.AspNetCore.Components
+@using Microsoft.JSInterop
+@inject IJSRuntime JSRuntime
+@inject NavigationManager NavigationManager
+@inject HttpClient Http
+@page "/camera"
+
+    <div class="card">
+        <div class="row">
+            <div class="col-md-12 col-sm-12">
+                <canvas hidden="@showCanvas" @ref="canvasElement" width="250" height="250"></canvas>
+            </div>
+        </div>
+
+        <video hidden @ref="videoElement"></video>
+        <div class="card-body">
+            <button class="btn btn-primary" type="button" @onclick="TakeScan" style="align : center;"><span class="oi oi-pencil"></span>Prendre un photo</button>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+@code {
+
+    private ElementReference canvasElement;
+    private ElementReference videoElement;
+    private ElementReference outputElement;
+
+
+    public bool showCanvas { get; set; } = true;
+    public string Message { get; set; }
+
+
+    public string logStatus { get; set; }
+
+    private async Task TakeScan()
+    {
+        showCanvas = false;
+        await JSRuntime.InvokeAsync<string>("runQrScanner", canvasElement, videoElement, outputElement, DotNetObjectReference.Create(this));
+    }
+
+}

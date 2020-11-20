@@ -1,0 +1,70 @@
+@page "/login"
+@inject POIN.Client.Services.IAuthService AuthService
+@inject NavigationManager NavigationManager
+@using POIN.Shared.Models
+
+
+<div class="card">
+    <div class="card-body">
+        <EditForm Model="loginModel" OnValidSubmit="HandleLogin">
+            <DataAnnotationsValidator />
+            @* <ValidationSummary /> *@
+            @if (ShowErrors){
+            <div class="alert alert-danger" role="alert">
+                <p>@Error</p>
+            </div>
+            }
+            <div class="form-group">
+                <label for="email">Adresse email</label>
+                <InputText Id="email" Class="form-control" @bind-Value="loginModel.Email" />
+                <ValidationMessage For="@(() => loginModel.Email)" />
+            </div>
+            <div class="form-group">
+                <label for="password">Mot de passe</label>
+                <InputText Id="password" type="password" Class="form-control" @bind-Value="loginModel.Password" />
+                <ValidationMessage For="@(() => loginModel.Password)" />
+            </div>
+        
+            <button type="submit" class="btn btn-primary">Connexion</button>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+
+    private LoginModel loginModel = new LoginModel();
+    private bool ShowErrors;
+    private string Error = "";
+
+    private async Task HandleLogin()
+    {
+        ShowErrors = false;
+
+        try{
+            var result = await AuthService.Login(loginModel);
+
+        if (result.Successful)
+        {
+            NavigationManager.NavigateTo("/");
+        }
+        }catch(Exception ex){
+            
+            Error = "Identifiant ou mot de passe incorrect";
+            ShowErrors = true;
+        }
+
+
+        @* var result = await AuthService.Login(loginModel);
+
+        if (result.Successful)
+        {
+            NavigationManager.NavigateTo("/");
+        }
+        else
+        {
+            Error = result.Error;
+            ShowErrors = true;
+        } *@
+    }
+
+}

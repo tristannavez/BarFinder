@@ -1,0 +1,45 @@
+C:\coursProjet\projetPoin\projet-poin\Shared\bin\Debug\netstandard2.0\POIN.Shared.deps.json
+C:\coursProjet\projetPoin\projet-poin\Shared\bin\Debug\netstandard2.0\POIN.Shared.dll
+C:\coursProjet\projetPoin\projet-poin\Shared\bin\Debug\netstandard2.0\POIN.Shared.pdb
+C:\coursProjet\projetPoin\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.csprojAssemblyReference.cache
+C:\coursProjet\projetPoin\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.csproj.CoreCompileInputs.cache
+C:\coursProjet\projetPoin\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.AssemblyInfoInputs.cache
+C:\coursProjet\projetPoin\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.AssemblyInfo.cs
+C:\coursProjet\projetPoin\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.dll
+C:\coursProjet\projetPoin\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.pdb
+D:\EPSI B3\POIN\POIN_v3\Shared\bin\Debug\netstandard2.0\POIN.Shared.deps.json
+D:\EPSI B3\POIN\POIN_v3\Shared\bin\Debug\netstandard2.0\POIN.Shared.dll
+D:\EPSI B3\POIN\POIN_v3\Shared\bin\Debug\netstandard2.0\POIN.Shared.pdb
+D:\EPSI B3\POIN\POIN_v3\Shared\obj\Debug\netstandard2.0\POIN.Shared.AssemblyInfoInputs.cache
+D:\EPSI B3\POIN\POIN_v3\Shared\obj\Debug\netstandard2.0\POIN.Shared.AssemblyInfo.cs
+D:\EPSI B3\POIN\POIN_v3\Shared\obj\Debug\netstandard2.0\POIN.Shared.csproj.CoreCompileInputs.cache
+D:\EPSI B3\POIN\POIN_v3\Shared\obj\Debug\netstandard2.0\POIN.Shared.dll
+D:\EPSI B3\POIN\POIN_v3\Shared\obj\Debug\netstandard2.0\POIN.Shared.pdb
+D:\EPSI B3\POIN\POIN_v3\Shared\obj\Debug\netstandard2.0\POIN.Shared.csprojAssemblyReference.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Shared\bin\Debug\netstandard2.0\POIN.Shared.deps.json
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Shared\bin\Debug\netstandard2.0\POIN.Shared.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Shared\bin\Debug\netstandard2.0\POIN.Shared.pdb
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.csprojAssemblyReference.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.AssemblyInfoInputs.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.AssemblyInfo.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.csproj.CoreCompileInputs.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.pdb
+D:\EPSI B3\POIN\POIN_v5\projet-poin\Shared\bin\Debug\netstandard2.0\POIN.Shared.deps.json
+D:\EPSI B3\POIN\POIN_v5\projet-poin\Shared\bin\Debug\netstandard2.0\POIN.Shared.dll
+D:\EPSI B3\POIN\POIN_v5\projet-poin\Shared\bin\Debug\netstandard2.0\POIN.Shared.pdb
+D:\EPSI B3\POIN\POIN_v5\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.csprojAssemblyReference.cache
+D:\EPSI B3\POIN\POIN_v5\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.AssemblyInfoInputs.cache
+D:\EPSI B3\POIN\POIN_v5\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.AssemblyInfo.cs
+D:\EPSI B3\POIN\POIN_v5\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.csproj.CoreCompileInputs.cache
+D:\EPSI B3\POIN\POIN_v5\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.dll
+D:\EPSI B3\POIN\POIN_v5\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.pdb
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Shared\bin\Debug\netstandard2.0\POIN.Shared.deps.json
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Shared\bin\Debug\netstandard2.0\POIN.Shared.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Shared\bin\Debug\netstandard2.0\POIN.Shared.pdb
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.csprojAssemblyReference.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.AssemblyInfoInputs.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.AssemblyInfo.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.csproj.CoreCompileInputs.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Shared\obj\Debug\netstandard2.0\POIN.Shared.pdb

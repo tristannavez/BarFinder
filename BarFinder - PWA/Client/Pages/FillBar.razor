@@ -1,0 +1,70 @@
+﻿@page "/fillbar"
+
+
+<div class="card">
+
+    <h5 class="card-title">Modifier le bar</h5>
+    <div class="card-body">
+        <EditForm Model="@_fillBar" OnValidSubmit="HandleValidSubmit">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+
+            <div class="form-group">
+                <p>
+                    <label>
+                        Nom du bar :
+                        <InputText class="form-control"  @bind-Value="_fillBar.Identifier" />
+                    </label>
+                </p>
+            </div>
+
+            <div class="form-group">
+                <p>
+                    <label>
+                        Description :
+                        <InputTextArea class="form-control"  @bind-Value="_fillBar.Description" />
+                    </label>
+                </p>
+            </div>
+
+            <div class="form-group">
+                <p>
+                    <label>
+                        Type de bar:
+                        <InputSelect class="form-control"  @bind-Value="_fillBar.Classification">
+                            <option value="">Classique</option>
+                            <option value="Ambiance">Ambiance</option>
+                            <option value="Restaurant">Restaurant</option>
+                        </InputSelect>
+                    </label>
+                </p>
+            </div>
+
+            <div class="form-group">
+                <form enctype="multipart/form-data" method="post">
+                    <dl>
+                        <dt>
+                            <label asp-for="FileUpload.FormFile"></label>
+                        </dt>
+                        <dd>
+                            <input asp-for="FileUpload.FormFile" type="file">
+                        </dd>
+                    </dl>
+                    <input asp-page-handler="Upload" class="btn btn-primary" type="submit" value="Charger l'image">
+                </form>
+            </div>
+
+            <button type="submit" class="btn btn-success">Enregistrer</button>
+
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    private fillBarModel _fillBar = new fillBarModel();
+
+    private void HandleValidSubmit()
+    {
+        Console.WriteLine("OnValidSubmit");
+    }
+}

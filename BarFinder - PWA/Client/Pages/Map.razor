@@ -1,0 +1,33 @@
+﻿@page "/map"
+
+@using GoogleMapsComponents
+@using GoogleMapsComponents.Maps
+@inject IJSRuntime JSruntime
+
+@*<GoogleMap @ref="@map" Id="map"></GoogleMap>*@
+<div id="map" style="height: 100%;"></div>
+<div id="steps" style="display: none;"></div>
+@*<button type="button" class="btn btn-primary" @onclick="DirectionService">
+    Direction
+</button>*@
+
+@functions {
+
+    protected async override void OnInitialized()
+    {
+        var checkPos = await JSruntime.InvokeAsync<string>("CheckGeoloc", DotNetObjectReference.Create(this));
+
+        if (checkPos == "ok")
+        {
+            await JSruntime.InvokeAsync<string>("callMap", DotNetObjectReference.Create(this));
+        }
+
+    }
+
+    //private async Task DirectionService()
+    //{
+
+    //    await JSruntime.InvokeAsync<string>("directionService", DotNetObjectReference.Create(this));
+    //    StateHasChanged();
+    //}
+}

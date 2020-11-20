@@ -1,0 +1,40 @@
+﻿<div class="top-row pl-4 navbar navbar-dark">
+    <a class="navbar-brand" href="">
+        <span style="font-size:1.5em;">BARFINDER</span>
+        <span style="padding-left:10px;">
+            <img src="beer.png" style="height: 2.3em;padding-left:3px;padding-bottom:13px;" />
+        </span>
+    </a>
+    <button class="navbar-toggler" style="margin-bottom:15px;" @onclick="@ToggleNavMenu">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+</div>
+
+<div class="@NavMenuCssClass" @onclick="@ToggleNavMenu">
+    <ul class="nav flex-column">
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="oi oi-home" aria-hidden="true"></span> Home
+            </NavLink>
+            <AuthorizeView>
+                <Authorized>
+                    <NavLink class="nav-link" href="/fillbar" Match="NavLinkMatch.All">
+                        <span class="oi oi-plus" aria-hidden="true"></span> Ajouter un bar
+                    </NavLink>
+                </Authorized>
+            </AuthorizeView>
+            <LoginDisplay />
+</li>
+    </ul>
+</div>
+
+@code {
+    bool collapseNavMenu = true;
+
+    string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

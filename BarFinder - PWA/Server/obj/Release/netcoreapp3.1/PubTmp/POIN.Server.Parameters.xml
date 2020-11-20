@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="BarFinder" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\EPSI\ B3\\POIN\\POIN_V6\\projet-poin\\Server\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

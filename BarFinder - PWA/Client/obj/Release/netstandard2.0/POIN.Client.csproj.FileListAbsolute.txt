@@ -1,0 +1,943 @@
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\POIN.Client.blazor.config
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\Properties\launchSettings.json
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\POIN.Client.StaticWebAssets.xml
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\POIN.Client.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\POIN.Client.pdb
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Blazored.LocalStorage.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\GoogleMapsComponents.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Authorization.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Metadata.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Options.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Primitives.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.JSInterop.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Mono.Security.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Mono.WebAssembly.Interop.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\mscorlib.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Newtonsoft.Json.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\OneOf.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\POIN.Client.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\POIN.Shared.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Buffers.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.ComponentModel.Annotations.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Core.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Data.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Memory.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Net.Http.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Numerics.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Numerics.Vectors.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Runtime.Serialization.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Text.Encodings.Web.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Text.Json.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Threading.Tasks.Extensions.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Xml.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Xml.Linq.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\WebAssembly.Bindings.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\WebAssembly.Net.Http.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\wasm\mono.js
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\wasm\mono.wasm
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\blazor.server.js
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\blazor.webassembly.js
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\POIN.Client.pdb
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\POIN.Shared.pdb
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\blazor.boot.json
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_content\GoogleMapsComponents\background.png
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_content\GoogleMapsComponents\objectManager.js
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\dist\_content\GoogleMapsComponents\styles.css
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\Blazored.LocalStorage.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\GoogleMapsComponents.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Authorization.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Components.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Components.Authorization.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Components.Web.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Metadata.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.Options.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.Primitives.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.JSInterop.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\Mono.WebAssembly.Interop.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\Newtonsoft.Json.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\OneOf.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\System.Buffers.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\System.ComponentModel.Annotations.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\System.Memory.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\System.Numerics.Vectors.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\System.Text.Encodings.Web.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\System.Text.Json.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\System.Threading.Tasks.Extensions.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\POIN.Shared.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\bin\Release\netstandard2.0\POIN.Shared.pdb
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.csprojAssemblyReference.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.AssemblyInfoInputs.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.AssemblyInfo.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.csproj.CoreCompileInputs.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.RazorComponent.input.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\App.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Login.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Logout.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Map.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Register.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\_Imports.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\POIN.Client.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.TagHelpers.input.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.TagHelpers.output.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.RazorCoreGenerate.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\Razor\App.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Counter.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\FetchData.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Index.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Login.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Logout.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Map.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Register.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\Razor\Shared\LoginDisplay.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\Razor\Shared\MainLayout.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\Razor\Shared\NavMenu.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\Razor\_Imports.razor.g.cs
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.RazorTargetAssemblyInfo.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.csproj.CopyComplete
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\staticwebassets\POIN.Client.StaticWebAssets.Manifest.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\staticwebassets\POIN.Client.StaticWebAssets.xml
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.pdb
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.linkerswitch.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.basic.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.copylocal.txt
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker.descriptor.xml
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.linker.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linked.assemblies.txt
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Blazored.LocalStorage.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\GoogleMapsComponents.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Authorization.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Authorization.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Forms.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Web.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Metadata.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.Options.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.Primitives.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.JSInterop.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Mono.Security.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Mono.WebAssembly.Interop.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\mscorlib.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Newtonsoft.Json.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\OneOf.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\POIN.Client.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\POIN.Shared.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Buffers.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.ComponentModel.Annotations.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Core.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Data.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Memory.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Net.Http.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Numerics.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Numerics.Vectors.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Runtime.CompilerServices.Unsafe.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Runtime.Serialization.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Text.Encodings.Web.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Text.Json.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Threading.Tasks.Extensions.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Xml.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Xml.Linq.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\WebAssembly.Bindings.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\WebAssembly.Net.Http.dll
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\POIN.Client.pdb
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\POIN.Shared.pdb
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.bootjson.cache
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\blazor.boot.json
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\_content\GoogleMapsComponents\background.png
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\_content\GoogleMapsComponents\objectManager.js
+D:\EPSI B3\POIN\POIN_v4\projet-poin\Client\obj\Release\netstandard2.0\blazor\_content\GoogleMapsComponents\styles.css
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\Properties\launchSettings.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\POIN.Client.blazor.config
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\POIN.Client.StaticWebAssets.xml
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\POIN.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\POIN.Client.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Blazored.LocalStorage.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\GoogleMapsComponents.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Metadata.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Options.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Primitives.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.JSInterop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Mono.Security.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Mono.WebAssembly.Interop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\mscorlib.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Newtonsoft.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\OneOf.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\POIN.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\POIN.Shared.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Buffers.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.ComponentModel.Annotations.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Core.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Data.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Memory.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Net.Http.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Numerics.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Numerics.Vectors.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Runtime.Serialization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Text.Encodings.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Text.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Threading.Tasks.Extensions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Xml.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Xml.Linq.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\WebAssembly.Bindings.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\WebAssembly.Net.Http.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\wasm\mono.js
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\wasm\mono.wasm
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\blazor.server.js
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\blazor.webassembly.js
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\POIN.Client.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\POIN.Shared.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\blazor.boot.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_content\GoogleMapsComponents\background.png
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_content\GoogleMapsComponents\objectManager.js
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\dist\_content\GoogleMapsComponents\styles.css
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\Blazored.LocalStorage.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\GoogleMapsComponents.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Components.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.Options.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.Primitives.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.JSInterop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\Mono.WebAssembly.Interop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\OneOf.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\System.Buffers.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\System.Memory.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\System.Numerics.Vectors.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\System.Text.Encodings.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\System.Text.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\System.Threading.Tasks.Extensions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\POIN.Shared.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\bin\Release\netstandard2.0\POIN.Shared.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.csprojAssemblyReference.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.AssemblyInfoInputs.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.AssemblyInfo.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.csproj.CoreCompileInputs.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.RazorComponent.input.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\App.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Component\QRCodeFromFile.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Component\QRCodeScanner.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Camera.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Logout.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Map.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Register.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\POIN.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.TagHelpers.input.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.TagHelpers.output.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.RazorCoreGenerate.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\Razor\App.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\Razor\Component\QRCodeFromFile.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\Razor\Component\QRCodeScanner.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Camera.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Index.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Login.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Logout.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Map.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Register.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\Razor\Shared\LoginDisplay.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\Razor\_Imports.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.RazorTargetAssemblyInfo.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.csproj.CopyComplete
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\staticwebassets\POIN.Client.StaticWebAssets.Manifest.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\staticwebassets\POIN.Client.StaticWebAssets.xml
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.linkerswitch.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.basic.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.copylocal.txt
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker.descriptor.xml
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.linker.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linked.assemblies.txt
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Blazored.LocalStorage.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\GoogleMapsComponents.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Metadata.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.Options.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.Primitives.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.JSInterop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Mono.Security.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Mono.WebAssembly.Interop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\mscorlib.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Newtonsoft.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\OneOf.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\POIN.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\POIN.Shared.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Buffers.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.ComponentModel.Annotations.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Core.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Data.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Memory.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Net.Http.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Numerics.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Numerics.Vectors.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Runtime.Serialization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Text.Encodings.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Text.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Threading.Tasks.Extensions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Xml.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Xml.Linq.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\WebAssembly.Bindings.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\WebAssembly.Net.Http.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\POIN.Client.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\POIN.Shared.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.bootjson.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\blazor.boot.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\_content\GoogleMapsComponents\background.png
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\_content\GoogleMapsComponents\objectManager.js
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\up2-master\projet-poin\projet-poin\Client\obj\Release\netstandard2.0\blazor\_content\GoogleMapsComponents\styles.css
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\Properties\launchSettings.json
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\POIN.Client.blazor.config
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\POIN.Client.StaticWebAssets.xml
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\POIN.Client.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\POIN.Client.pdb
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Blazored.LocalStorage.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\GoogleMapsComponents.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Authorization.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Metadata.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Options.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Primitives.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.JSInterop.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Mono.Security.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Mono.WebAssembly.Interop.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\mscorlib.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Newtonsoft.Json.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\OneOf.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\POIN.Client.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\POIN.Shared.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Buffers.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.ComponentModel.Annotations.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Core.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Data.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Memory.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Net.Http.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Numerics.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Numerics.Vectors.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Runtime.Serialization.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Text.Encodings.Web.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Text.Json.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Threading.Tasks.Extensions.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Xml.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Xml.Linq.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\WebAssembly.Bindings.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\WebAssembly.Net.Http.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\wasm\mono.js
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\wasm\mono.wasm
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\blazor.server.js
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\blazor.webassembly.js
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\POIN.Client.pdb
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\POIN.Shared.pdb
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\blazor.boot.json
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_content\GoogleMapsComponents\background.png
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_content\GoogleMapsComponents\objectManager.js
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\dist\_content\GoogleMapsComponents\styles.css
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\Blazored.LocalStorage.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\GoogleMapsComponents.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Authorization.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Components.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Components.Authorization.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Components.Web.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Metadata.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.Options.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.Primitives.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.JSInterop.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\Mono.WebAssembly.Interop.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\Newtonsoft.Json.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\OneOf.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\System.Buffers.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\System.ComponentModel.Annotations.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\System.Memory.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\System.Numerics.Vectors.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\System.Text.Encodings.Web.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\System.Text.Json.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\System.Threading.Tasks.Extensions.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\POIN.Shared.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\bin\Release\netstandard2.0\POIN.Shared.pdb
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.csprojAssemblyReference.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.AssemblyInfoInputs.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.AssemblyInfo.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.csproj.CoreCompileInputs.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.RazorComponent.input.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\App.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Component\QRCodeFromFile.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Component\QRCodeScanner.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Camera.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Login.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Logout.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Map.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Register.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\_Imports.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\POIN.Client.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.TagHelpers.input.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.TagHelpers.output.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.RazorCoreGenerate.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\Razor\App.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\Razor\Component\QRCodeFromFile.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\Razor\Component\QRCodeScanner.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Camera.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Counter.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\FetchData.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Index.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Login.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Logout.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Map.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Register.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\Razor\Shared\LoginDisplay.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\Razor\Shared\MainLayout.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\Razor\Shared\NavMenu.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\Razor\_Imports.razor.g.cs
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.RazorTargetAssemblyInfo.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.csproj.CopyComplete
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\staticwebassets\POIN.Client.StaticWebAssets.Manifest.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\staticwebassets\POIN.Client.StaticWebAssets.xml
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.pdb
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.linkerswitch.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.basic.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.copylocal.txt
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker.descriptor.xml
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.linker.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linked.assemblies.txt
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Blazored.LocalStorage.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\GoogleMapsComponents.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Authorization.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Authorization.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Forms.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Web.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Metadata.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.Options.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.Primitives.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.JSInterop.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Mono.Security.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Mono.WebAssembly.Interop.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\mscorlib.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Newtonsoft.Json.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\OneOf.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\POIN.Client.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\POIN.Shared.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Buffers.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.ComponentModel.Annotations.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Core.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Data.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Memory.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Net.Http.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Numerics.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Numerics.Vectors.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Runtime.CompilerServices.Unsafe.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Runtime.Serialization.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Text.Encodings.Web.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Text.Json.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Threading.Tasks.Extensions.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Xml.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Xml.Linq.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\WebAssembly.Bindings.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\WebAssembly.Net.Http.dll
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\POIN.Client.pdb
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\POIN.Shared.pdb
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.bootjson.cache
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\blazor.boot.json
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\_content\GoogleMapsComponents\background.png
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\_content\GoogleMapsComponents\objectManager.js
+D:\EPSI B3\POIN\POIN_V6\projet-poin\Client\obj\Release\netstandard2.0\blazor\_content\GoogleMapsComponents\styles.css
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\Properties\launchSettings.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\POIN.Client.blazor.config
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\POIN.Client.StaticWebAssets.xml
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\POIN.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\POIN.Client.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Blazored.LocalStorage.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\GoogleMapsComponents.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Metadata.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Options.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Primitives.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.JSInterop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Mono.Security.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Mono.WebAssembly.Interop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\mscorlib.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Newtonsoft.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\OneOf.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\POIN.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\POIN.Shared.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Buffers.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.ComponentModel.Annotations.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Core.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Data.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Memory.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Net.Http.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Numerics.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Numerics.Vectors.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Runtime.Serialization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Text.Encodings.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Text.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Threading.Tasks.Extensions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Xml.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Xml.Linq.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\WebAssembly.Bindings.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\WebAssembly.Net.Http.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\wasm\mono.js
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\wasm\mono.wasm
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\blazor.server.js
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\blazor.webassembly.js
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\POIN.Client.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\POIN.Shared.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\blazor.boot.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_content\GoogleMapsComponents\background.png
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_content\GoogleMapsComponents\objectManager.js
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\dist\_content\GoogleMapsComponents\styles.css
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\Blazored.LocalStorage.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\GoogleMapsComponents.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Components.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.Options.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.Primitives.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.JSInterop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\Mono.WebAssembly.Interop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\OneOf.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\System.Buffers.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\System.Memory.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\System.Numerics.Vectors.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\System.Text.Encodings.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\System.Text.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\System.Threading.Tasks.Extensions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\POIN.Shared.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\bin\Release\netstandard2.0\POIN.Shared.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.csprojAssemblyReference.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.AssemblyInfoInputs.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.AssemblyInfo.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.csproj.CoreCompileInputs.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.RazorComponent.input.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\App.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Component\QRCodeFromFile.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Component\QRCodeScanner.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Camera.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Logout.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Map.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Register.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\POIN.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.TagHelpers.input.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.TagHelpers.output.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.RazorCoreGenerate.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\Razor\App.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\Razor\Component\QRCodeFromFile.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\Razor\Component\QRCodeScanner.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Camera.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Index.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Login.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Logout.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Map.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Register.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\Razor\Shared\LoginDisplay.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\Razor\_Imports.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.RazorTargetAssemblyInfo.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.csproj.CopyComplete
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\staticwebassets\POIN.Client.StaticWebAssets.Manifest.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\staticwebassets\POIN.Client.StaticWebAssets.xml
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.linkerswitch.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.basic.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.copylocal.txt
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker.descriptor.xml
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.linker.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linked.assemblies.txt
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Blazored.LocalStorage.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\GoogleMapsComponents.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Metadata.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.Options.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.Primitives.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.JSInterop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Mono.Security.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Mono.WebAssembly.Interop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\mscorlib.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Newtonsoft.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\OneOf.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\POIN.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\POIN.Shared.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Buffers.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.ComponentModel.Annotations.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Core.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Data.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Memory.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Net.Http.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Numerics.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Numerics.Vectors.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Runtime.Serialization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Text.Encodings.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Text.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Threading.Tasks.Extensions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Xml.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Xml.Linq.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\WebAssembly.Bindings.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\WebAssembly.Net.Http.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\POIN.Client.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\POIN.Shared.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.bootjson.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\blazor.boot.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\_content\GoogleMapsComponents\background.png
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\_content\GoogleMapsComponents\objectManager.js
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\projet-poin\Client\obj\Release\netstandard2.0\blazor\_content\GoogleMapsComponents\styles.css
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\Properties\launchSettings.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\POIN.Client.blazor.config
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\POIN.Client.StaticWebAssets.xml
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\POIN.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\POIN.Client.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Blazored.LocalStorage.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\GoogleMapsComponents.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Metadata.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Options.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.Primitives.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Microsoft.JSInterop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Mono.Security.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Mono.WebAssembly.Interop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\mscorlib.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\Newtonsoft.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\OneOf.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\POIN.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\POIN.Shared.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Buffers.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.ComponentModel.Annotations.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Core.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Data.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Memory.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Net.Http.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Numerics.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Numerics.Vectors.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Runtime.Serialization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Text.Encodings.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Text.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Threading.Tasks.Extensions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Xml.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\System.Xml.Linq.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\WebAssembly.Bindings.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\WebAssembly.Net.Http.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\wasm\mono.js
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\wasm\mono.wasm
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\blazor.server.js
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\blazor.webassembly.js
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\POIN.Client.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\_bin\POIN.Shared.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_framework\blazor.boot.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_content\GoogleMapsComponents\background.png
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_content\GoogleMapsComponents\objectManager.js
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\dist\_content\GoogleMapsComponents\styles.css
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\Blazored.LocalStorage.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\GoogleMapsComponents.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Components.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.Options.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.Extensions.Primitives.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\Microsoft.JSInterop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\Mono.WebAssembly.Interop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\OneOf.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\System.Buffers.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\System.Memory.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\System.Numerics.Vectors.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\System.Text.Encodings.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\System.Text.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\System.Threading.Tasks.Extensions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\POIN.Shared.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\bin\Release\netstandard2.0\POIN.Shared.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.csprojAssemblyReference.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.AssemblyInfoInputs.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.AssemblyInfo.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.csproj.CoreCompileInputs.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.RazorComponent.input.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\App.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Component\QRCodeFromFile.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Component\QRCodeScanner.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Camera.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\EditBar.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\FillBar.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Logout.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Map.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Pages\Register.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\RazorDeclaration\POIN.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.TagHelpers.input.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.TagHelpers.output.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.RazorCoreGenerate.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\Razor\App.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\Razor\Component\QRCodeFromFile.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\Razor\Component\QRCodeScanner.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Camera.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\EditBar.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\FillBar.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Index.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Login.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Logout.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Map.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\Razor\Pages\Register.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\Razor\Shared\LoginDisplay.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\Razor\_Imports.razor.g.cs
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.RazorTargetAssemblyInfo.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.csproj.CopyComplete
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\staticwebassets\POIN.Client.StaticWebAssets.Manifest.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\staticwebassets\POIN.Client.StaticWebAssets.xml
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\POIN.Client.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.linkerswitch.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.basic.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.copylocal.txt
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker.descriptor.xml
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.linker.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linked.assemblies.txt
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Blazored.LocalStorage.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\GoogleMapsComponents.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Metadata.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.Options.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.Extensions.Primitives.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Microsoft.JSInterop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Mono.Security.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Mono.WebAssembly.Interop.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\mscorlib.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\Newtonsoft.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\OneOf.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\POIN.Client.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\POIN.Shared.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Buffers.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.ComponentModel.Annotations.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Core.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Data.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Memory.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Net.Http.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Numerics.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Numerics.Vectors.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Runtime.Serialization.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Text.Encodings.Web.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Text.Json.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Threading.Tasks.Extensions.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Xml.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\System.Xml.Linq.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\WebAssembly.Bindings.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\WebAssembly.Net.Http.dll
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\POIN.Client.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\linker\POIN.Shared.pdb
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\inputs.bootjson.cache
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\blazor.boot.json
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\_content\GoogleMapsComponents\background.png
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\_content\GoogleMapsComponents\objectManager.js
+C:\Users\trsnv\OneDrive\Documents\Cours et TP EPSI B3\POIN\for-merge\projet-poin\Client\obj\Release\netstandard2.0\blazor\_content\GoogleMapsComponents\styles.css
